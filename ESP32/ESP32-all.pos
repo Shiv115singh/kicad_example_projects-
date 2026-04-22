@@ -1,0 +1,35 @@
+### Footprint positions - created on 2026-04-14T08:11:24 ###
+### Printed by KiCad version 10.0.0
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                          Package                                        PosX       PosY       Rot  Side
+C7        TBD                          C_0201_0603Metric                          137.1600   -91.6580   90.0000  bottom
+C8        TBD                          C_0201_0603Metric                          137.2500   -93.8890   90.0000  bottom
+R4        TDR                          R_0201_0603Metric                          136.3500   -92.6910  -90.0000  bottom
+Y1        Crystal                      Crystal_SMD_3215-2Pin_3.2x1.5mm            138.8500   -92.6910   90.0000  bottom
+C1        4u7                          C_0805_2012Metric                          123.2560  -117.0616  180.0000  top
+C2        4u7                          C_0805_2012Metric                          121.5884  -114.4616    0.0000  top
+C3        4u7                          C_0805_2012Metric                          121.3000  -111.3500   90.0000  top
+C4        4u7                          C_0805_2012Metric                          117.9384  -114.3616    0.0000  top
+C5        4u7                          C_0805_2012Metric                          113.0000   -91.0500  -90.0000  top
+C6        100n                         C_0402_1005Metric                          114.8000   -90.4000  -90.0000  top
+C9        100n                         C_0402_1005Metric                          117.7900  -124.6600  -90.0000  top
+C10       100n                         C_0402_1005Metric                          140.1300  -125.3000  -90.0000  top
+D1        PESD5V0L1ULD                 D_SOD-882D                                 123.6884  -118.9616  180.0000  top
+J1        USB_C_Receptacle_USB2.0_16P  USB_C_Receptacle_G-Switch_GT-USB-7010ASV   126.9584  -124.8866    0.0000  top
+J2        Conn_01x08_Pin               PinHeader_1x08_P2.54mm_Vertical            112.2680   -99.4410    0.0000  top
+J3        Conn_01x08_Pin               PinHeader_1x08_P2.54mm_Vertical            138.9380   -98.9330    0.0000  top
+R1        5K                           R_0402_1005Metric                          131.5884  -118.6716   90.0000  top
+R2        5K                           R_0402_1005Metric                          127.5884  -118.5616   90.0000  top
+R3        0R                           R_0805_2012Metric                          126.6884  -115.1716   90.0000  top
+R5        10K                          R_0402_1005Metric                          113.3000  -122.7800  180.0000  top
+R6        100R                         R_0402_1005Metric                          115.8000  -122.7800  180.0000  top
+R7        10K                          R_0402_1005Metric                          137.1200  -122.7000    0.0000  top
+R8        10K                          R_0402_1005Metric                          125.6000  -107.4000   90.0000  top
+R9        10K                          R_0402_1005Metric                          127.1500  -107.3900   90.0000  top
+SW1       SW_Push                      SW_SPST_B3U-1000P                          114.7000  -125.2000    0.0000  top
+SW2       SW_Push                      SW_SPST_B3U-1000P                          136.9000  -125.3000    0.0000  top
+U1        USBLC6-2SC6                  SOT-23-6                                   129.9384  -114.9341   90.0000  top
+U2        AP2112K-3.3                  SOT-23-5                                   118.0000  -111.3000  180.0000  top
+U3        ESP32-C3-WROOM-02            ESP32-C3-WROOM-02                          125.2500   -96.0500    0.0000  top
+## End

@@ -1,0 +1,8 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1";"C_0805_2012Metric";1;"680uf";;;
+2;"C2";"C_0805_2012Metric";1;"220uf";;;
+3;"D1";"D_DO-201AD_P12.70mm_Horizontal";1;"1N5821";;;
+4;"J1";"BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal";1;"Jack-DC";;;
+5;"J2";"TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal";1;"Conn_01x02";;;
+6;"L1";"L_APV_APH0420";1;"L";;;
+7;"U1";"TO-263-5_TabPin3";1;"LM2596S-ADJ";;;
